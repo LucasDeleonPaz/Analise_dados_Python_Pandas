@@ -20,7 +20,7 @@ Arquivo composto por vários prints, onde descrevo, print a print, a funcionalid
 Posteriormente, criarei uma pasta modularizada, contendo vários programas, onde farei a utilização mais correta e profissional 
 da informação, assim como a geração e retornos, com funções específicas e direcionamento para cada
 ação por mim esperada. <br/>
-Link direto:
+Link direto: https://github.com/LucasDeleonPaz/Analise_dados_Python_Pandas/tree/main/INICIANDO
 
 
 
