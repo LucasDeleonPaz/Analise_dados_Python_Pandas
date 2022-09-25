@@ -22,5 +22,26 @@ da informação, assim como a geração e retornos, com funções específicas e
 ação por mim esperada. <br/>
 Link direto: https://github.com/LucasDeleonPaz/Analise_dados_Python_Pandas/tree/main/INICIANDO
 
+## ARQUIVOS EXCEL - PASTA NO ROOT
+Pasta contendo somente 1 único arquivo **(main.py)** onde treino a importação e utilização de conjunto de dados através de arquivos ".xlsx".
+Nesse programa, faço diversas utilizações dos dados, como construir retorno concatenados, criando padrões de observação dos dados
+com diversas relações (Como vendas por ano, vendas por cidade, valor total de vendas, maior receita e etc).<br/>
+Link direto:
+
+## DATAS - PASTA NO ROOT
+Pasta contendo somente 1 único arquivo **(main.py)** onde treino a utilização de datas com pandas.
+Crio novas colunas para relações posteriores, usando dos dias, meses e anos como referência para observação de padrões.
+Além de criar várias relações que retornam padrões de vendas em períodos específicos dos anos. <br/>
+Link direto:
+
+## VISUALIZANDO DADOS - PASTA NO ROOT
+Pasta contendo 2 arquivos, sendo o **"main.py"** o arquivo em Python onde tento criar as tabelas para visualização de dados.
+E o arquivo **"Visualizacao_Dados.ipynb"** o arquivo criado no Colab contendo diversos gráficos das diversas relações que 
+desenvolvi ao longo do treinamento.
+Os gráficos variam entre barras, pizza, disperção e histograma. <br/>
+Link direto:
+
+
+
 
 
