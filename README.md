@@ -41,6 +41,14 @@ desenvolvi ao longo do treinamento.
 Os gráficos variam entre barras, pizza, disperção e histograma. <br/>
 Link direto: https://github.com/LucasDeleonPaz/Analise_dados_Python_Pandas/tree/main/VISUALIZANDO_DADOS
 
+## ANÁLISE DE DADOS
+Pasta contendo 3 arquivos onde aplico os conhecimentos por mim adquiridos ao longo do treinamento em relação 
+à utilização da biblioteca Pandas com MatPlotLib.
+1 arquivo em jupyter notebook contendo diversos gráficos de relações por mim criadas e retornadas. <br/>
+Link direto: https://github.com/LucasDeleonPaz/Analise_dados_Python_Pandas/tree/main/ANALISE_DE_DADOS
+
+## df_vendas.csv
+Data Frame gerado, que carrega as iterações por mim feitas no arquivo, para análise dos dados e informações.
 
 
 
